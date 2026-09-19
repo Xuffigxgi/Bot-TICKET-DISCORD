@@ -1,4 +1,6 @@
 ## ภาษาไทยอยู่ด่านล่าง
+
+![BOT](https://cdn.discordapp.com/attachments/1401474726253039662/1550811035613528124/Screenshot_20260919-170708.jpg?ex=6aafb0d3&is=6aae5f53&hm=e5c42da7ece77006df2a736633aa022ef7a75c90d88185a79103ff373e896326&)
 # 🎫 Discord Ticket Bot (Python / discord.py)
 
 A clean and efficient Discord Ticket System bot built with Python using `discord.py`. It features interactive buttons, automatic channel permission management, chat history transcripts, and automated logging to an admin channel when a ticket is closed.
